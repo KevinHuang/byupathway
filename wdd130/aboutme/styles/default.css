@@ -1,0 +1,14 @@
+
+
+body {
+    padding-left: 16px ;
+    padding-right: 16px;
+}
+
+img {
+    border-radius: 45%;
+}
+
+.avatar {
+    width: 150px;
+}
